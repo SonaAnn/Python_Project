@@ -21,11 +21,27 @@ You can install the required libraries using pip:
 pip install requests beautifulsoup4
 
 
-Acknowledgments
-Requests library
-Beautiful Soup library
+## Acknowledgments
+
+Requests library,
+Beautiful Soup library,
 BBC News website (https://www.bbc.com/news)
 
-Disclaimer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Disclaimer
 This project is intended for educational and demonstration purposes only. Be sure to respect the terms of use and policies of websites when scraping data from them.
 
